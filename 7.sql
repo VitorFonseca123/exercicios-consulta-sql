@@ -1,0 +1,1 @@
+SELECT distinct emp FROM trabalha_no ORDER BY emp
