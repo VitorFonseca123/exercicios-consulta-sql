@@ -2,6 +2,6 @@
 
 */
 update staff 
-set salary = salary+(5/100 *salary)
+set salary = salary*1.05
 where position ='Manager'
 
